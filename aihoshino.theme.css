@@ -2,10 +2,9 @@
  * @name Ai Hoshino
  * @author Evexor#8081
  * @version 2.0.0
- * @description Display your picture of choice with adjustable blur and brightness.
+ * @description here you go simps (my first theme btw)
  * @source https://github.com/DiscordStyles/FrostedGlass
- * @invite ZHthyCw
- * @authorId 174868361040232448
+ * @authorId 659082467768139822
  * @BDEditor Frosted Glass
 */
 
@@ -16,7 +15,7 @@
 
 :root {
   --background-image: url('https://i.imgur.com/ejv4YLc.jpg');
-  --background-image-blur: 3px;
+  --background-image-blur: 5px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://i.imgur.com/BdbU9H7.jpg');
